@@ -1,0 +1,10 @@
+This homework consist in booking a hotel by giving different information to the program.
+
+It has one main .cpp and two header files. 
+In order to run this file you have to include the .cpp file and header files
+of Guest class and Hotel class in the same project and simply hit run in your IDE. 
+
+From this, you will see a menu that allows you to either book a hotel, display all information or exit the function.
+
+Every other detail you need to know is given along the comment lines of the code. 
+
